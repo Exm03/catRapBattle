@@ -1,0 +1,26 @@
+.counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1000px;
+}
+
+.result{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.img{
+    max-height: 400px;
+    min-height: 400px;
+}
+
+h1{
+    background-color: rgb(255, 255, 255);
+    border: 5px;
+}
+body{
+    background-color: black;
+}
